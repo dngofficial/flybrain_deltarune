@@ -1,0 +1,12 @@
+# Observed runtime versions, for reproducing this validation environment.
+# Install an appropriate CPU/GPU torch wheel for your platform.
+numpy==2.3.5
+scipy==1.17.0
+Pillow==12.3.0
+torch==2.14.1
+pygame-ce==2.5.8
+# Optional tests/data import:
+pytest==9.1.1
+lupa==2.8
+pyarrow==26.0.0
+pandas==2.2.3

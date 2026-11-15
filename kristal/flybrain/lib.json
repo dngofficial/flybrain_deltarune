@@ -1,0 +1,17 @@
+{
+  "id": "flybrain",
+  "name": "Flybrain Dodge Lab",
+  "authors": [
+    "Flybrain Dodge Lab contributors"
+  ],
+  "version": "v0.1.0",
+  "engineVer": "v0.11.0-dev",
+  "config": {
+    "port": 65432,
+    "watchdog_seconds": 15,
+    "step_seconds": 0.03333333333333333
+  },
+  "dependencies": [
+    "rudinn"
+  ]
+}
