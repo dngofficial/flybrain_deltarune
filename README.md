@@ -1,9 +1,9 @@
-# Flybrain controller for EnemyRecreations Rudinn
+# Flybrain controller for Deltarune 
 
 <img width="1771" height="1159" alt="image" src="https://github.com/user-attachments/assets/ccc8bb61-30fe-4075-9b3a-009faab53071" />
 
 
-This is the existing flybrain bridge configured for the original Rudinn fight in the [EnemyRecreations project](https://github.com/KristalTeam/EnemyRecreations). It includes no new encounter, wave, or bullet and no Python game simulation. Kristal sends its rendered screenshot to Python during the Rudinn defense phase; Python returns a movement action. Confirmed bullet-hit counts and episode state are sent as metadata for learning.
+This is the existing flybrain bridge configured for the original Rudinn fight in the [EnemyRecreations project](https://github.com/KristalTeam/EnemyRecreations) for the Kristal fangame engine. (https://kristal.cc/). It includes no new encounter, wave, or bullet and no Python game simulation. Kristal sends its rendered screenshot to Python during the Rudinn defense phase; Python returns a movement action. Confirmed bullet-hit counts and episode state are sent as metadata for learning.
 
 ## Install
 
